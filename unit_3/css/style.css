@@ -1,0 +1,85 @@
+* {
+	padding:0;
+	margin:0;
+}
+
+body {
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 20px;
+}
+
+header {
+	background-color: #D9CCB4;
+	padding: 25px;
+	text-align: right;
+}
+
+nav a {
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #F28379;
+	margin-right: 20px;
+	font-size: 25px;
+	font-style: bold;	
+}
+
+#slogan {
+	text-align: center;
+	font-size: 24px;
+	font-style: italic;
+}
+
+main {
+	background-color: #A6953F;
+	color: #303030;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 48px;
+	font-weight: bold;
+}
+
+img {
+	width: 100%;
+	opacity: 0.8;
+}
+
+#quote {
+	background-color: #A6953F;
+	color: #303030;
+	text-align: center;
+	font-style: italic;
+	font-size: 30;
+}
+
+section {
+	padding: 20px;
+	color: #303030;
+	background-color: #D9CCB4;
+}
+
+h3 {
+	text-transform: uppercase;
+	font-style:bold;
+}
+
+ul, ol {
+	margin-left:40px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.links {
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #F28379;
+}
+
+footer {
+	padding: 20px;
+	text-align: right;
+	background-color: #D9CCB4;
+	font-size: 15px;
+}
